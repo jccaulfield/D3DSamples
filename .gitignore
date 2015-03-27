@@ -1,0 +1,8 @@
+
+#############
+*.vcxproj.user
+*.suo
+*.sdf
+*.pidb
+*.userprefs
+
